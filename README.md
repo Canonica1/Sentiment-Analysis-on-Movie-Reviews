@@ -10,3 +10,7 @@
 ## 🗃 Датасет
 
 Используется датасет [Rotten Tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) из библиотеки HuggingFace Datasets.
+
+## Результаты
+
+84% accuracy / 89% F1-score 
